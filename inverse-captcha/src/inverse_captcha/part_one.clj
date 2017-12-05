@@ -1,4 +1,4 @@
-(ns inverse-captcha.core)
+(ns inverse-captcha.part-one)
 
 
 (defn get-first [list]
